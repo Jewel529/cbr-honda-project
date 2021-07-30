@@ -1,0 +1,21 @@
+.background{font-family:Arial, Helvetica, sans-serif;}
+.star-color{color:rgb(220, 220, 44);}
+.header-bg-color{
+    background-color: #264653;
+    ;
+}
+.button-colors{
+    background-color: #E76F51;
+
+    border-radius: 5px !important;
+    text-align: center;
+}
+.bike{
+    filter: grayscale(100%);
+}
+.hr-line{
+    max-width: 60px; border-top: 1px solid #E76F51;
+}
+.button-purches{
+}
+
